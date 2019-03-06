@@ -5,4 +5,4 @@ portfolio/tmp
 node_modules
 cards/*/node_modules
 deploy
-
+yarn.lock
